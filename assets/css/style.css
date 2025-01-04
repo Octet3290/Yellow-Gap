@@ -41,6 +41,21 @@ img {
     height: auto;
 }
 
+.image-zoom {
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.image-zoom-wrapper {
+    overflow: hidden;
+    position: relative;
+}
+
+.image-zoom-wrapper img{
+     transition: var(--transition);
+}
+
+
 .section-padding {
     padding-top: 140px;
     padding-bottom: 140px;
