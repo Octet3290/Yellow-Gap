@@ -85,7 +85,7 @@ img {
     color: var(--c-brand);
 }
 .navbar-brand img{
-    max-width: 300px;
+    max-width: 200px;
     height: auto;
 }
 
